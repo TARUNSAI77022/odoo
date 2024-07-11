@@ -1,5 +1,5 @@
 {
-    'name': 'clg Management',
+    'name': 'School Management',
     'version': '1.0',
     'category': 'Education',
     'summary': 'Manage school students',
